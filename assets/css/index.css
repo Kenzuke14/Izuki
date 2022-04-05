@@ -210,8 +210,8 @@ body {
 }
 
 .gallery2 {
-  max-width: 20%;
-  flex: 0 0 20%;
+  max-width: 17%;
+  flex: 0 0 17%;
   padding: 4px;
 }
 #faq {
@@ -329,7 +329,7 @@ body {
   .owl-prev {}
 
   #particle {
-    background-image: url(../images/fundo-roadmap1.jpg);
+    background-image: url(/assets/images/fundo-roadmap1.jpg);
     position: relative;
     top: 0;
     right: 0;
