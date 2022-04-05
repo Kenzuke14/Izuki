@@ -329,7 +329,7 @@ body {
   .owl-prev {}
 
   #particle {
-    background-image: url('/mages/fundo-roadmap1.jpg');
+    background-image: url('../mages/fundo-roadmap1.jpg');
     position: relative;
     top: 0;
     right: 0;
@@ -355,7 +355,7 @@ body {
 }
 
 #particle {
-  background-image: url('/');
+  background-image: url('../images/fundo-roadmap1.jpg');
   position: relative;
   top: 0;
   right: 0;
